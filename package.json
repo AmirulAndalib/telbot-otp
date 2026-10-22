@@ -15,18 +15,18 @@
   "dependencies": {
     "bcrypt": "^5.0.1",
     "dotenv": "^14.2.0",
-    "express": "^4.17.2",
-    "moment": "^2.29.2",
-    "mongoose": "^6.12.0",
+    "express": "^4.22.3",
+    "moment": "^2.31.0",
+    "mongoose": "^6.13.10",
     "swagger-ui-express": "^4.3.0",
     "telegraf": "^4.6.0"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-standard": "^16.0.3",
+    "eslint": "^10.13.0",
+    "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.2.0",
+    "eslint-plugin-promise": "^7.3.0",
     "husky": "^7.0.4"
   }
 }
